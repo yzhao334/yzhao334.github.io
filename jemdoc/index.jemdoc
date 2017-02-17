@@ -2,11 +2,11 @@
 = Yu Zhao
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{https://yzhao334.github.io}
+{}{img_left}{photos/bio.png}{alt text}{230}{https://yzhao334.github.io}
 
 [https://yzhao334.github.io Yu Zhao]\n
 Ph.D. Candidate\n
-Email: yzhao334[at]berkeley[Dot]edu\n\n
+Email: yzhao334\[at\]berkeley\[Dot\]edu\n\n
 
 Advisor: [http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka Professor Masayoshi Tomizuka]\n\n
 
@@ -19,7 +19,7 @@ Advisor: [http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka Professor
 ~~~
 
 == About me
-I am a 4th year Ph.D. student in the Department of Mechanical Engineering at UC Berkeley. I am working in Prof. Tomizuka's Mechanical Systems Control (MSC) Lab.
+I am currently a Ph.D. student in Prof. Tomizuka's [http://msc.berkeley.edu/ Mechanical Systems Control] (MSC) Lab at Department of Mechanical Engineering of UC Berkeley.
 
 My research interests include nonlinear control, dynamical system modeling, optimal control, machine learning, and their applications on robotics.
 
@@ -29,13 +29,14 @@ My research interests include nonlinear control, dynamical system modeling, opti
 - B.S., Mechanical Engineering, [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University] (Beijing, China), 2005-2009
 
 == Experience
-- Graduate student reseracher,   [http://msc.berkeley.edu/ MSC Lab],    2013-present
+- Research assistant,   [http://msc.berkeley.edu/ MSC Lab],    2013-present
   -- Motion control of flexible joint robot
   -- Vibration suppression of industrial robot
   -- Learning control of industrial robot
+- Intern,   [http://www.energid.com/ Energid Technologies], Cambridge, MA,   Jun.2016-Aug.2016
+  -- Online trajectory generation for bounded velocity, acceleration, and jerk.
 - Intern,   [http://robot.fanucamerica.com/ FANUC], Japan     Jun.2015-Jul.2015, Sep.2016
   -- Vibration suppression of industrial robot
-- Intern,   [http://www.energid.com/ Energid Technologies], Cambridge, MA,   Jun.2016-Aug.2016
 
 
 
