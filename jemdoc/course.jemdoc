@@ -1,4 +1,23 @@
 # jemdoc: menu{MENU}{course.html}
 = Coursework
-# The first line of this file is a special command that tells jemdoc which menu
-# entry in the file named MENU to associate this page with.
+
+== Dynamic Systems and Control
+- Intermediate Dynamics (ME175, [http://www.me.berkeley.edu/people/faculty/oliver-oreilly    Prof. Oliver O'Reilly])
+- Oscillations in Linear Systems (ME273, [http://www.me.berkeley.edu/people/faculty/fai-ma    Prof. Fai Ma])
+- Advanced Control I (ME232, [http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka    Prof. Masayoshi Tomizuka])
+- Advanced Control II (ME233, [http://engr.uconn.edu/~xchen/    Prof. Xu Chen])
+- Control of Nonlinear Dynamic Systems (ME237, [http://www.me.berkeley.edu/people/faculty/j-karl-hedrick    Prof. J. Karl Hedrick])
+- Nonlinear Systems--Analysis, Stability and Control (EE222, [https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html    Prof. Claire Tomlin])
+- Model Predictive Control for Linear and Hybrid Systems (ME290J, [http://www.me.berkeley.edu/people/faculty/francesco-borrelli    Prof. Francesco Borrelli])
+
+== Robotics
+- Advanced Robotics (CS287, [https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html    Prof. Pieter Abbeel])
+- Introduction to Robotics (EE215A, [https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html    Prof. Ruzena Bajcsy])
+
+== Machine Learning
+- Introduction to Machine Learning (CS289A, [https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html    Prof. Jitendra Malik] and [https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html    Prof. Alexei Efros])
+- Statistical Learning Theory (CS281A, [https://www2.eecs.berkeley.edu/Faculty/Homepages/brecht.html    Prof. Benjamin Recht])
+
+== Optimization
+- Optimization Models in Engineering (EE227AT, [https://www2.eecs.berkeley.edu/Faculty/Homepages/elghaoui.html    Prof. Laurent El Ghaoui])
+- Mathematical Programming II (IEOR262B, [http://ieor.berkeley.edu/people/faculty/oren    Prof. Shmuel S. Oren])
