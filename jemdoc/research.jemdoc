@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+== Vibration Suppression
+~~~
+{}{img_left}{photos/RobotVibrationSuppression.png}{alt text}{800}
+~~~
+
+== Motion Control of Flexible Joint Robot

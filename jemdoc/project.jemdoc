@@ -1,4 +1,48 @@
 # jemdoc: menu{MENU}{project.html}
 = Projects
-# The first line of this file is a special command that tells jemdoc which menu
-# entry in the file named MENU to associate this page with.
+
+== Optimal Manipulation of Ball-Plate System
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4h9JPFRpPec" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Imitation Learning
+
+== Optimal Flipping Control of Quadroto
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6fPfQ4yo5s?ecver=1" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Obstacle Inspection with Baxter
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHHdsH0Q3Kw" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Simulation of Painting Robot
+~~~
+{}{img_left}{photos/ptrobot.png}{alt text}{315}
+~~~
+
+== Pingpong Robot Design and Analysis
+~~~
+{}{img_left}{photos/image005.jpg}{alt text}{150}{150}
+~~~
+
+== Mechanical System Design and Analysis
+~~~
+{}{img_left}{photos/pj03.gif}{alt text}{315}
+Spheral parallel mechanism with 3 rotational degrees of freedom, which coulbe bue used in wrist haptic device or assistive devices.
+~~~
+
+~~~
+{}{img_left}{photos/mech2.gif}{alt text}{315}
+Stable extendable mechanism element. Multiple elements can be used to construct lifting machines.
+~~~
+
+~~~
+{}{img_left}{photos/mech1.jpg}{}{315}
+Protype design of a dip coating shuttle for dip-treatment and painting for automobiles.
+~~~
