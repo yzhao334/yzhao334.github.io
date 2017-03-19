@@ -17,7 +17,7 @@ This work try to suppress vibration for robot with flexible payload. A modified 
 
 == Motion Control of Flexible Joint Robot
 
-This work try to improve trajectory tracking accuracy of flexible joint. A MATLAB\/SimMechanics simulator for 6-joint robot is developed. Joint flexibility effect is also considered in this simulator that simulates robot dynamics. For very soft joint, the solution is implementing a multiple sliding surface controller (MSSC) that takes advantage of the model of robot dynamics and sensing from actuator and robot joints\/links.
+This work try to improve trajectory tracking accuracy of flexible joint robot. A MATLAB\/SimMechanics simulator for 6-joint robot is developed. Joint flexibility effect is also considered in this simulator that simulates robot dynamics. For very soft joint, the solution is implementing a multiple sliding surface controller (MSSC) that takes advantage of the model of robot dynamics and sensing from actuator and robot joints\/links.
 
 ~~~
 {}{raw}
