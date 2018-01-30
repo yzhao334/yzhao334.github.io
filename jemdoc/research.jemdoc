@@ -23,3 +23,33 @@ This work try to improve trajectory tracking accuracy of flexible joint robot. A
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CvkO7m-aVaU" frameborder="0" allowfullscreen></iframe>
 ~~~
+
+
+== Efficient Numerical Method for Optimal Control
+
+A variety of control problems can be formulated and solved as optimal control problem. However, it is difficult to implement numerical control in practice due to two reasons. One reason is that no simple analytical solution exists for general nonlinear optimal control problems. Another reason is that the computational load for numerical solution is typically heavy. In this work, efficient numerical method is developed for general nonlinear optimal control problems. Potential applications of this work include control of underactuated systems, trajectory and motion planning of robot manipulators, and so on.
+
+~~~
+{}{img_left}{photos/Picture2.png}{alt text}{800}
+~~~
+
+Example: Quadrotor Flipping
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1ZxJ_2tJTM" frameborder="0" allowfullscreen></iframe>
+~~~
+
+Example: Motion Planning of 2 Link Planar Robot
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Up3LHq3DUD0" frameborder="0" allowfullscreen></iframe>
+~~~
+
+Example: Motion Planning of 6 Joint Robot
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GW96_YJGZ8" frameborder="0" allowfullscreen></iframe>
+~~~
