@@ -1,6 +1,14 @@
 # jemdoc: menu{MENU}{project.html}
 = Projects
 
+== Online Trajectory Generation
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R8yIsASUwN0" frameborder="0" allowfullscreen></iframe>
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQ82Yz8fOBg" frameborder="0" allowfullscreen></iframe>
+~~~
+
 == Optimal Manipulation of Ball-Plate System
 ~~~
 {}{raw}
@@ -23,14 +31,6 @@
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vAvYOazPspQ" frameborder="0" allowfullscreen></iframe>
-~~~
-
-== Online Trajectory Generation
-~~~
-{}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R8yIsASUwN0" frameborder="0" allowfullscreen></iframe>
-&nbsp;
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UQ82Yz8fOBg" frameborder="0" allowfullscreen></iframe>
 ~~~
 
 == Simulation of Painting Robot
