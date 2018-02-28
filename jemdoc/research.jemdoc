@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
 
-Precise motion control is desired in a variety of industrial robot applications. In order to achieve precise and rapid rest-to-rest motion, the overshoot and the residual vibration caused by flexibility of robots should be minimized. To make robot motion more accurate, vibration suppression and control of flexible joint robot problems are introduced in this research.
+Precise motion control is desired in a variety of industrial robot applications. In order to achieve precise and rapid rest-to-rest motion, the overshoot and the residual vibration caused by flexibility of robots should be minimized. To make robot motion more accurate, vibration suppression and control of flexible joint robot problems are introduced in this research. Furthermore, considering these control problems can be addressed using more general optimal control approach, an efficient numerical method for optimal control is presented not only to dress motion control problems, but also other applications like motion planning.
 
 == Vibration Suppression
 
