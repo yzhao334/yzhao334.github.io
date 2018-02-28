@@ -47,9 +47,11 @@ Example: Motion Planning of 2 Link Planar Robot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Up3LHq3DUD0" frameborder="0" allowfullscreen></iframe>
 ~~~
 
-Example: Motion Planning of 6 Joint Robot
+Example: Motion Planning of 6 Joint Robot, using CasADi and CppAD respectively
 
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_GW96_YJGZ8" frameborder="0" allowfullscreen></iframe>
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5cbXW-huSbk" frameborder="0" allowfullscreen></iframe>
 ~~~
