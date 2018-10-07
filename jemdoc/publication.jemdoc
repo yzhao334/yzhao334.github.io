@@ -3,7 +3,7 @@
 
 == Papers
 
-- Zhao, Yu, and Masayoshi Tomizuka. "Modified Zero Time Delay Input Shaping for Industrial Robot With Flexibility." In ASME 2017 Dynamic Systems and Control Conference, pp. V003T22A003-V003T22A003. American Society of Mechanical Engineers, 2017.
+- Zhao, Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ModifiedZeroDelay.pdf "Modified Zero Time Delay Input Shaping for Industrial Robot With Flexibility."] In ASME 2017 Dynamic Systems and Control Conference, pp. V003T22A003-V003T22A003. American Society of Mechanical Engineers, 2017. [http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663594 DOI]
 
 - Zhao, Yu, Xiaowen Yu, and Masayoshi Tomizuka. "Neuroadaptive Control for Trajectory Tracking of Indirect Drive Robots." In ASME 2017 Dynamic Systems and Control Conference, pp. V002T12A004-V002T12A004. American Society of Mechanical Engineers, 2017.
 
@@ -13,7 +13,7 @@
 
 - Tang, Te, Hsien-Chung Lin, Yu Zhao, Wenjie Chen, and Masayoshi Tomizuka. "Autonomous alignment of peg and hole by force/torque measurement for robotic assembly." In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 162-167. IEEE, 2016.
 
-- Zhao, Yu, Wenjie Chen, Te Tang, and Masayoshi Tomizuka. "Zero time delay input shaping for smooth settling of industrial robots." In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 620-625. IEEE, 2016.
+- Zhao, Yu, Wenjie Chen, Te Tang, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ZeroDelayShaping.pdf “Zero time delay input shaping for smooth settling of industrial robots.”] In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 620-625. IEEE, 2016. [https://ieeexplore.ieee.org/document/7743459 DOI]
 
 - Fan, Yongxiang, Hsien-Chung Lin, Yu Zhao, Chung-Yen Lin, Te Tang, Masayoshi Tomizuka, and Wenjie Chen. "Object position and orientation tracking for manipulators considering nonnegligible sensor physics." In Flexible Automation (ISFA), International Symposium on, pp. 450-457. IEEE, 2016.
 

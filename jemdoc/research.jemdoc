@@ -6,6 +6,11 @@ Precise motion control is desired in a variety of industrial robot applications.
 == Vibration Suppression
 
 This work try to suppress vibration for robot with flexible payload. A modified input shaping technique, which is designed to work without slowing the motion, is implemented in this work. Acceleration at the end tip of payload shows the performance of the vibration suppression.
+
+==== Related publications
+- Zhao, Yu, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ModifiedZeroDelay.pdf "Modified Zero Time Delay Input Shaping for Industrial Robot With Flexibility."] In ASME 2017 Dynamic Systems and Control Conference, pp. V003T22A003-V003T22A003. American Society of Mechanical Engineers, 2017. [http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663594 DOI]
+- Zhao, Yu, Wenjie Chen, Te Tang, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/ZeroDelayShaping.pdf “Zero time delay input shaping for smooth settling of industrial robots.”] In Automation Science and Engineering (CASE), 2016 IEEE International Conference on, pp. 620-625. IEEE, 2016. [https://ieeexplore.ieee.org/document/7743459 DOI]
+
 ~~~
 {}{img_left}{photos/RobotVibrationSuppression.png}{alt text}{800}
 ~~~
@@ -47,7 +52,7 @@ Example: Motion Planning of 2 Link Planar Robot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Up3LHq3DUD0" frameborder="0" allowfullscreen></iframe>
 ~~~
 
-Example: Motion Planning of 6 Joint Robot, using CasADi and CppAD respectively
+Example: Time optimal motion Planning of 6 Joint Robot, using CasADi and CppAD respectively
 
 ~~~
 {}{raw}
@@ -55,3 +60,11 @@ Example: Motion Planning of 6 Joint Robot, using CasADi and CppAD respectively
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cbXW-huSbk" frameborder="0" allowfullscreen></iframe>
 ~~~
+
+Example: Time optimal motion Planning of 6 Joint Robot with kinematics, dynamics constraints, and collision avoidance requirements.
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZmLXtO3C2E" frameborder="0" allowfullscreen></iframe>
+~~~
+
