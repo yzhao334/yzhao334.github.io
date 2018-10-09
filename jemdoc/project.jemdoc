@@ -1,12 +1,18 @@
 # jemdoc: menu{MENU}{project.html}
 = Projects
 
-== Online Trajectory Generation
+== Online Trajectory Generation {{[}}[https://github.com/yzhao334/accOpt link to code]{{]}}
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R8yIsASUwN0" frameborder="0" allowfullscreen></iframe>
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UQ82Yz8fOBg" frameborder="0" allowfullscreen></iframe>
+~~~
+
+== Optimal Flipping Control of Quadrotor {{[}}[https://github.com/yzhao334/Flipping-Test link to code]{{]}}
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zApf2qy0YGc" frameborder="0" allowfullscreen></iframe>
 ~~~
 
 == Optimal Manipulation of Ball-Plate System
@@ -19,12 +25,6 @@
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/krhfBBV2OWQ" frameborder="0" allowfullscreen></iframe>
-~~~
-
-== Optimal Flipping Control of Quadrotor
-~~~
-{}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zApf2qy0YGc" frameborder="0" allowfullscreen></iframe>
 ~~~
 
 == Obstacle Inspection with Baxter
