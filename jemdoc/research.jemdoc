@@ -27,7 +27,7 @@ This work try to suppress vibration for robot with flexible payload. A modified 
 A variety of control problems can be formulated and solved as optimal control problem. However, it is difficult to implement numerical control in practice due to two reasons. One reason is that no simple analytical solution exists for general nonlinear optimal control problems. Another reason is that the computational load for numerical solution is typically heavy. In this work, efficient numerical method is developed for general nonlinear optimal control problems. Potential applications of this work include control of underactuated systems, trajectory and motion planning of robot manipulators, and so on.
 
 ==== Related publications
-- Zhao, Yu, Hsien-Chung Lin, and Masayoshi Tomizuka. [https://yzhao334.github.io/pdf/yu_ICARCV18.pdf "Efficient trajectory optimization for robot motion planning."] In International Conference on Control, Automation, Robotics and Vision (ICARCV), 2018.
+- Zhao, Yu, Hsien-Chung Lin, and Masayoshi Tomizuka. "Efficient trajectory optimization for robot motion planning." In International Conference on Control, Automation, Robotics and Vision (ICARCV), 2018. {{[}}[https://yzhao334.github.io/pdf/yu_ICARCV18.pdf preprint version]{{]}}
 - Lin, Chung-Yen, Yu Zhao, Masayoshi Tomizuka, and Wenjie Chen. [https://yzhao334.github.io/pdf/chungYen_acc16.pdf "Path-constrained trajectory planning for robot service life optimization."] In American Control Conference (ACC), 2016, pp. 2116-2122. IEEE, 2016. {{[}}[https://ieeexplore.ieee.org/document/7525231 DOI]{{]}}
 
 ~~~
